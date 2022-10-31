@@ -1,6 +1,9 @@
 
 
 ::placeholder{
+  background-image: url(/instagramclone/assets/search-solid.svg);
+  background-repeat: no-repeat;
+  background-position: left;
   text-align: center;
   font-size: 14px;
   color: gray;
