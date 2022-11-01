@@ -1,12 +1,13 @@
 ::placeholder{
   background-image: url(/instagramclone/assets/search-solid.svg);
   background-repeat: no-repeat;
-  background-position: left;
+  background-position:left;
   text-align: center;
   font-size: 14px;
   color: gray;
   background-position: 40%;
   background-size: 6%;
+  padding-left: 10px;
 }
 
 input.empty {
@@ -50,4 +51,11 @@ input.empty {
 
 .middlearea{
   max-height:200px !important; 
+}
+.storyphoto{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid rgb(238, 39, 82);
+  margin-right: 7px;
 }
