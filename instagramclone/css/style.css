@@ -1,5 +1,3 @@
-
-
 ::placeholder{
   background-image: url(/instagramclone/assets/search-solid.svg);
   background-repeat: no-repeat;
@@ -48,4 +46,8 @@ input.empty {
 .rightpanellinks:hover {
   text-decoration: none;
   color: lightgrey;
+}
+
+.middlearea{
+  max-height:200px !important; 
 }
